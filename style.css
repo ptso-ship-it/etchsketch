@@ -1,19 +1,10 @@
-.container0 {
+.container {
 	display:  flex;
-}
-
-.container1 {
-	display: flex;
-}
-
-.container2 {
-	display: flex;
-}
-
-.container3 {
-	display: flex;
+	justify-content: space-between;
+	max-height:  960px;
+	max-width:  960px;
 }
 
 .square {
-	margin: 5px;
+	flex: 1;
 }
